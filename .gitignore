@@ -1,5 +1,3 @@
-question2/airflow/logs/*
-question2/airflow/plugins/*
-question2/pgadmin/*
-question2/pgvol/*
-question2/db/*
+.idea
+.ipynb_checkpoints
+__pycache__
