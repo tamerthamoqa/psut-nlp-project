@@ -14,7 +14,9 @@ The given 10 txt files contain various Arabic tweets. Each file consists of two 
     * A method called LMBigram to build 2-D Language Model Matrix with Laplace smoothing using NLTK. This method saves generated matrix in an instance variable.
     * A method called Run that takes a part of sentence from user and returns the expected next word using the constructed matrix from the previous step.
 
-* __Task 2__: Using NLTK and/or Camel libraries to build “Named Entity Extraction” Model that can be used to extract name of person, country, organization, events...etc. The model can be trained on training data and tested on different data.
+* __Task 2__: Use NLTK and/or Camel libraries to build “Named Entity Extraction” Model that can be used to extract name of person, country, organization, events...etc. The model can be trained on training data and tested on different data.
 
-* __Task 3__: Using google BERT word embedding model to build sentiment analysis model.
+* __Task 3__: Use google BERT word embedding model to build sentiment analysis model.
+
+* __Task 4__: Prepare a presentation on an NLP task. (I chose "Topic Modelling" and experimented with the Latent Dirichlet Allocation (LDA) Topic Modeller).
 
